@@ -1,6 +1,6 @@
-# QUEEN Reproduction Package (Copy, No Symlinks)
+# QUEEN Reproduction Package
 
-This folder is a **fully copied** (no symlinks) reproduction package for QUEEN (queen).
+This folder is a **fully copied** reproduction package for QUEEN (queen).
 
 Contents:
 
